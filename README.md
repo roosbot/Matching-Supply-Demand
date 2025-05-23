@@ -4,8 +4,6 @@ This repository contains a Data &amp; Analytics business case for Data Analyst p
 # By Roos Rabenberg
 
 23-05-2025
-
-[Presentation link](https://www.canva.com/design/DAE3N0HHcr8/s26uz-iX6yBVNPnEzgbc5g/view?utm_content=DAE3N0HHcr8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   
 **Objective**
 You have been asked to perform a deep-dive analysis by a Head of Sales. The Head of Sales is responsible for a team of Outbound Sales reps who are on the
